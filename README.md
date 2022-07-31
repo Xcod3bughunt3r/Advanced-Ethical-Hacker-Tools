@@ -1,6 +1,6 @@
 <center><h1><i>~ ADVANCED ETHICAL HACKER TOOLS ~</i></h1></center>
 
-<p align="center"><img src="https://github.com/Xcod3bughunt3r/Advanced-Ethical-Hacker-Tools/blob/main/0011.png" alt="Master of IT" width="200"/></p>
+<p align="center"><img src="https://github.com/Xcod3bughunt3r/Advanced-Ethical-Hacker-Tools/images/blob/main/0011.png" alt="Master of IT" width="200"/></p>
 
 ### TOOLS :
 - [01-Information-Gathering](https://github.com/Xcod3bughunt3r/Advanced-Ethical-Hacker-Tools/blob/main/01-Information-Gathering.md)
