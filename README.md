@@ -1,4 +1,4 @@
-<center><h1><i>~ ADVANCED ETHICAL HACKER TOOLS ~</i></h1></center>
+<center><h1><i>ADVANCED ETHICAL HACKER TOOLS</i></h1></center>
 
 <p align="center"><img src="https://github.com/Xcod3bughunt3r/Advanced-Ethical-Hacker-Tools/blob/90f461e6cde37d649fceb7c88e0d9e91f0ef7991/images/0011.png" alt="Master of IT" width="200"/></p>
 
