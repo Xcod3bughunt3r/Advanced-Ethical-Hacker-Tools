@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Xcod3bughunt3r/blob/main/Advanced-Ethical-Hacker-Tools/images/01.png" alt="Master of IT" width="200"/></p>
+<p align="center"><img src="https://github.com/Xcod3bughunt3r/Advanced-Ethical-Hacker-Tools/images/blob/main/01.png" alt="Master of IT" width="200"/></p>
 
 <center><h1><i>Top Tools for Information-Gathering.</i></h1></center>
 
